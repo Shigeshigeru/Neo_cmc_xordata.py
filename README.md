@@ -1,4 +1,4 @@
-neo_cmc_xordata.py せつめいしょ  
+neo_cmc_xordata.py せつめいしょ\
 
 ACANGで一部のゲームのMROMにCROMを暗号化した時の
 チェックサムが埋め込まれていないのでFBneoでCROMの
