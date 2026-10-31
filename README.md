@@ -22,7 +22,7 @@ https://www.patreon.com/iq_132/posts/cracking-25-year-105172490
 
 ザ・キング・オブ・ファイターズ’９９  
 プレヒストリックアイル２-原始島-  
-ストライカーズ１９４５ＰＬｕｓ  
+ストライカーズ１９４５Ｐｌｕｓ  
 
 の三本です  
 
@@ -41,7 +41,7 @@ https://www.patreon.com/iq_132/posts/cracking-25-year-105172490
 プレヒストリックアイル２-原始島-の場合  
 `python3 neo_cmc_xordata.py embed preisle2_m1.bin preisle2_m1_out.bin --game preisle2  `
 
-ストライカーズ１９４５ＰＬｕｓの場合  
+ストライカーズ１９４５Ｐｌｕｓの場合  
 (書き込む部分にデータが入っているので--forceで上書き指定します)  
 `python3 neo_cmc_xordata.py embed s1945p_m1.bin s1945p_m1_out.bin --game 1945p --force  `
 
