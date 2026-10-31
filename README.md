@@ -11,6 +11,8 @@ ACANGで一部のゲームのMROMにCROMを暗号化した時の
 <img width="1189" height="942" alt="bakebake" src="https://github.com/user-attachments/assets/3cf4b806-c8d5-4427-a860-4277815fbea1" />
 ゲームできません  
 
+
+
 FBneo以外のエミュレータではそのチェックサムは無視されて  
 実害はないのですが25年越しに謎を発見したIQ氏により  
 FBneoには実装されてしまったのでMROMにチェックサムを  
