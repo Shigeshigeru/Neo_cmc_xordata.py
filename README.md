@@ -36,14 +36,14 @@ https://www.patreon.com/iq_132/posts/cracking-25-year-105172490
 （MROMのバックアップを取ってから使用してください）  
   
 ザ・キング・オブ・ファイターズ’９９の場合  
-python3 neo_cmc_xordata.py embed kof99_m1.bin kof99_m1_out.bin --game kof99  
+`python3 neo_cmc_xordata.py embed kof99_m1.bin kof99_m1_out.bin --game kof99  `
   
 プレヒストリックアイル２-原始島-の場合  
-python3 neo_cmc_xordata.py embed preisle2_m1.bin preisle2_m1_out.bin --game preisle2  
+`python3 neo_cmc_xordata.py embed preisle2_m1.bin preisle2_m1_out.bin --game preisle2  `
 
 ストライカーズ１９４５ＰＬｕｓの場合  
 (書き込む部分にデータが入っているので--forceで上書き指定します)  
-python3 neo_cmc_xordata.py embed s1945p_m1.bin s1945p_m1_out.bin --game 1945p --force  
+`python3 neo_cmc_xordata.py embed s1945p_m1.bin s1945p_m1_out.bin --game 1945p --force  `
 
 他にも検証用のオプションがあるようですが基本的には  
 使用しないので気にしなくてもいいです  
