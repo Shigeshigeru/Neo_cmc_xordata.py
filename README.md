@@ -45,7 +45,7 @@ https://www.patreon.com/iq_132/posts/cracking-25-year-105172490
 
 **ストライカーズ１９４５Ｐｌｕｓ**の場合  
 (書き込む部分にデータが入っているので--forceで上書き指定します)  
-`python3 neo_cmc_xordata.py embed s1945p_m1.bin s1945p_m1_out.bin --game 1945p --force  `
+`python3 neo_cmc_xordata.py embed s1945p_m1.bin s1945p_m1_out.bin --game s1945p --force  `
 
 他にも検証用のオプションがあるようですが基本的には  
 使用しないので気にしなくてもいいです  
