@@ -56,7 +56,7 @@ MROMにチェックサムを埋め込む機能しかないので抽出バッチ�
 思ったより変更部分が多くなったのですが化けないのでコレでいいと思います  
 理屈上は８バイトの変更のみでいいような気がします  
 もっと詳しく知りたい人はAIに聞いたりしてみたり  
-FBneoのソースのneo_decrypt.cppのコードのじっくり眺めてみてください  
+FBneoのソースの[neo_decrypt.cpp]([url](https://github.com/finalburnneo/FBNeo/blob/master/src/burn/drv/neogeo/neo_decrypt.cpp))のコードのじっくり眺めてみてください  
 とりあえずゲームプレイしたいだけの方はコレでおｋです  
 
 パブリックドメイン扱いにしますが商用利用等はヽ( ;´Д`)ﾉ ﾔﾒﾃｰ  
