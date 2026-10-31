@@ -22,7 +22,7 @@ https://www.patreon.com/iq_132/posts/cracking-25-year-105172490
 (自分が把握しているMROMにチェックサムが埋め込まれていないゲーム)  
 
 **ザ・キング・オブ・ファイターズ’９９**  
-**プレヒストリックアイル２-原始島-**  
+**プレヒストリックアイル２　原始島**  
 **ストライカーズ１９４５Ｐｌｕｓ**  
 
 の三本です  
@@ -39,7 +39,7 @@ https://www.patreon.com/iq_132/posts/cracking-25-year-105172490
 **ザ・キング・オブ・ファイターズ’９９**の場合  
 `python3 neo_cmc_xordata.py embed kof99_m1.bin kof99_m1_out.bin --game kof99  `
   
-**プレヒストリックアイル２-原始島-**の場合  
+**プレヒストリックアイル２　原始島**の場合  
 `python3 neo_cmc_xordata.py embed preisle2_m1.bin preisle2_m1_out.bin --game preisle2  `
 
 **ストライカーズ１９４５Ｐｌｕｓ**の場合  
