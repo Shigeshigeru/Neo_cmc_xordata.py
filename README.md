@@ -5,6 +5,12 @@ ACANGで一部のゲームのMROMにCROMを暗号化した時の
 チェックサムが埋め込まれていないのでFBneoでCROMの  
 スプライト展開時に化けてしまいます  
 
+<img width="1189" height="939" alt="NEOGEO" src="https://github.com/user-attachments/assets/0c27c74a-a48e-4d79-984c-ecd687d51bdd" />
+化け  
+
+<img width="1189" height="942" alt="bakebake" src="https://github.com/user-attachments/assets/3cf4b806-c8d5-4427-a860-4277815fbea1" />
+ゲームできません  
+
 FBneo以外のエミュレータではそのチェックサムは無視されて  
 実害はないのですが25年越しに謎を発見したIQ氏により  
 FBneoには実装されてしまったのでMROMにチェックサムを  
